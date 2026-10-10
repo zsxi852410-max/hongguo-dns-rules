@@ -1,0 +1,11 @@
+```text
+# Title: Hongguo Short Drama Extra DNS Rules
+# Description: 红果短剧 DNS 广告补充规则
+
+ad.zijieapi.com
+ads.zijieapi.com
+ad.byteoversea.com
+ads.byteoversea.com
+pangolin-sdk-toutiao.com
+pangolin-sdk-toutiao-b.com
+```
